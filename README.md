@@ -1,1 +1,1 @@
-![Alt text for the image](./flowchart.png)
+![Alt text for the image](./Flowchart.png)
